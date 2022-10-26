@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" />
 </p>
 
-<h4 align='center'>Testing</h4>
+<h4 align='center'>TESTING</h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat" />
