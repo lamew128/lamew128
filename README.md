@@ -13,7 +13,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-** Tech Stack **
-<p>
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>JavaScript</title><path d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z"/></svg>
+<h2 align='center'>Tech Stack</h2>
+
+<h4 align='center'>LANGUAGES</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat" />
+</p>
+
+<h4 align='center'>FRAMEWORKS & LIBRARIES</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express3&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat" />
+</p align='center'>
+
+<h4 align='center'>DATABASES</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" />
+</p>
+
+<h4 align='center'>Testing</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
+</p>
+
+<h4 align='center'>SYSTEMS</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
 </p>
